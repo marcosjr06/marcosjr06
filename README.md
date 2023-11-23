@@ -1,7 +1,9 @@
 # Marcos A. de Oliveira Jr.
 
 ## Current Activities
+
 IT Analyst - IFFar
+
 PhD Candidate - UFPel
 
 
@@ -9,6 +11,11 @@ PhD Candidate - UFPel
 - Ph.D. in Computer Science (in progress) - Universidade Federal de Pelotas (UFPel)
 - M.Sc. in Computer Science - Universidade Federal do Rio Grande do Sul (UFRGS)
 - B.Sc. in Computer Science - Universidade Federal de Santa Maria (UFSM)
+
+
+International Collaboration
+- Research Scholar at University of Florida, Gainesville/FL, USA (2022/2023) - CAPES PDSE Scholarship
+- Undergraduate academic exchange at Universidade do Algarve, Faro, PT (2011)
 
 [Academic CV](http://lattes.cnpq.br/1995588222933161)
 
