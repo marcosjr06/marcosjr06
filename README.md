@@ -2,15 +2,15 @@
 
 ## Current Activities
 
-IT Analyst - IFFar
+IT Analyst - IFFar (since 2015)
+https://www.iffarroupilha.edu.br/
 
-PhD Candidate - UFPel
 
 
 ## Academic Education
-- Ph.D. in Computer Science (in progress) - Universidade Federal de Pelotas (UFPel)
-- M.Sc. in Computer Science - Universidade Federal do Rio Grande do Sul (UFRGS)
-- B.Sc. in Computer Science - Universidade Federal de Santa Maria (UFSM)
+- Ph.D. in Computer Science (2023) - Universidade Federal de Pelotas (UFPel)
+- M.Sc. in Computer Science (2016) - Universidade Federal do Rio Grande do Sul (UFRGS)
+- B.Sc. in Computer Science (2013) - Universidade Federal de Santa Maria (UFSM)
 
 
 International Collaboration
