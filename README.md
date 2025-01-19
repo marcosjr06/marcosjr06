@@ -4,7 +4,7 @@
 Impact Research Fellow (Post-doc level) - University of Exeter
 [The Nature & Climate Impact Team](https://greenfutures.exeter.ac.uk/hoffmann-impact-team/)
 
-IT Analyst - [IFFar](https://www.iffarroupilha.edu.br/) (since 2015)
+IT Analyst - [IFFar](https://www.iffarroupilha.edu.br/)
 
 
 
